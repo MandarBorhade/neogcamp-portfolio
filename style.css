@@ -146,11 +146,13 @@ section {
     flex-direction: column;
     gap: 24px;
     align-items: center;
+    min-height: 100vh;
 }
 
 .card-primary {
     background-color: var(--dark-gray);
     max-width: 100%;
+    min-width: 100%;
     display: flex;
     flex-direction: column;
     gap: 8px;
