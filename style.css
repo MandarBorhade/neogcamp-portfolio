@@ -152,7 +152,6 @@ section {
 .card-primary {
     background-color: var(--dark-gray);
     max-width: 100%;
-    min-width: 100%;
     display: flex;
     flex-direction: column;
     gap: 8px;
