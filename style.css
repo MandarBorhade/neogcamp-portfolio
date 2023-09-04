@@ -150,7 +150,7 @@ section {
 
 .card-primary {
     background-color: var(--dark-gray);
-    width: 100%;
+    max-width: 100%;
     display: flex;
     flex-direction: column;
     gap: 8px;
